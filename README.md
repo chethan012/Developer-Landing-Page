@@ -1,0 +1,4 @@
+- Responsive layout for desktop and mobile
+- Clean and simple design
+- Fully customizable structure
+- HTML5 & CSS3 only (no frameworks)
